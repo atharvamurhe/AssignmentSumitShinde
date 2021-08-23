@@ -6,6 +6,7 @@ namespace StringAndExceptions
     {
         static void Main()
         {
+            //String and Exception handeling Assignment calls
             StringAndExceptions.StringMethods(); //Calls all string example methods
             StringAndExceptions.Exceptions(); //Calls exception example method
         }
